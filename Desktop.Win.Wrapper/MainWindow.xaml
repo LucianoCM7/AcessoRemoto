@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Remotely.Desktop.Win.Wrapper"
         mc:Ignorable="d"
-        Title="Remotely" Height="250" Width="350" 
+        Title="Qintess" Height="250" Width="350" 
         WindowStyle="None" 
         ResizeMode="NoResize"
         MouseLeftButtonDown="Window_MouseLeftButtonDown"
