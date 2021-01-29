@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Qintess - Suporte On-Line")]
 [assembly: AssemblyProduct("Remotely Installer")]
-[assembly: AssemblyCopyright("Copyright ©  2020 Translucency Software")]
+[assembly: AssemblyCopyright("Copyright ©  2021 Suporte On-Line")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
