@@ -8,7 +8,7 @@ using System.Windows;
 [assembly: AssemblyTitle("Remotely Installer")]
 [assembly: AssemblyDescription("An installer for the Remotely service, which provides unattended remote access and remote scripting.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Translucency Software")]
+[assembly: AssemblyCompany("Qintess - Suporte On-Line")]
 [assembly: AssemblyProduct("Remotely Installer")]
 [assembly: AssemblyCopyright("Copyright ©  2020 Translucency Software")]
 [assembly: AssemblyTrademark("")]
